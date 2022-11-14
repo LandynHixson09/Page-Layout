@@ -1,0 +1,41 @@
+span {
+    display: inline-block;
+    width: auto;
+    background-color: teal;
+    padding: 10px;
+    border: 3px solid orange;;
+  }
+  body {
+    text-align: center;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+  }
+  p {
+    text-align: center;
+    text-transform: capitalize;
+  }
+  
+  
+ 
+  
+  /* div,
+  span {
+    margin: 1px;
+  }
+  
+  span {
+    border: 1px solid #333;
+    
+    padding: 10px 15px;
+  }
+  
+  #pics span,
+  #text span {
+    padding: 25px 30px;
+  }
+  
+  #text span {
+    background-color: white;
+  }
